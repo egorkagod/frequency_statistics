@@ -4,6 +4,8 @@ raw/*
 reports/*
 !raw/.gitkeep
 
+gitignore
+.git/
 .venv/
 __pycache__
 .vscode/
